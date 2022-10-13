@@ -4,8 +4,7 @@ El Consultorio Médico Vida Natural - MVC
 ## Contexto del proyecto
 ## El Consultorio médico Vida Natural
 Se necesita una aplicación web que permita Ingresar usuarios, roles, pacientes, consultorios, médicos y genere citas. Debe estar realizad en PHP y tener una 
-base de datos en phpMyAdmin; De momento se desarrolló un producto mínimo viable (MVP) que cumple con todos los requisitos usando el patrón MVC (Modelo-Vista-Controlador).
-, pero le falta más etapas de desarrollo para un usuario final.
+base de datos en phpMyAdmin; De momento se desarrolló un producto mínimo viable (MVP) que cumple con todos los requisitos usando el patrón MVC (Modelo-Vista-Controlador), pero le falta más etapas de desarrollo para un usuario final.
 
 ## Requisitos funcionales
 La aplicación web constará con una Landing Page con 6 secciones donde se muestre todo lo relacionado al consultorio médico:
