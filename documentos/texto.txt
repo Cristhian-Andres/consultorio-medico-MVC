@@ -1,0 +1,4 @@
+Para ingresar al sistema
+
+usuario: administrador 
+contraseña: 1234

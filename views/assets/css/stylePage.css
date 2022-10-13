@@ -1,0 +1,91 @@
+:root{
+    --primer-bg-color: rgb(192, 255, 234);
+    --segundo-bg-color: rgb(111, 210, 177);
+    --tercer-bg-color: rgb(92, 184, 92);
+}
+
+
+/* Header */
+
+.nav_bar{
+    padding: 5rem;
+}
+.nav_link{
+    color: blue;
+}
+.row{
+    margin: 0;
+}
+/* inicio */
+.inicio{
+    height: 100vh;
+    background-image: url(/views/assets/img/fondo-1.png);
+    background-size: cover;
+    position: relative;
+}
+
+.title{
+    color: var(--tercer-bg-color);
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.btn {
+    background-color: var(--primer-bg-color);
+    border-radius: 20px;
+    color: var(--tercer-bg-color);
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Nosotros */
+.nosotros{
+    height: 100vh;
+    background-color: var(--primer-bg-color);
+    background-size: cover;
+    padding-top: 40vh;
+
+}
+
+.nosotros img{
+    width: 500px;
+    border-radius: 50%;
+}
+
+/* Medicos */
+.medicos{
+    height: 100vh;
+    background-color: var(--segundo-bg-color);
+    padding-top: 20vh;
+}
+
+.medicos img{
+    width: 100%;
+    border-radius: 40%;
+}
+
+/* Servicios */
+.servicios{
+    height: 100vh;
+    background-color: var(--primer-bg-color);
+    padding-top: 15vh;
+}
+
+.servicios img{
+    width: 70%;
+    border-radius: 40%;
+}
+
+/* Contact */
+.contacto{
+    height: 100vh;
+    background-color: var(--segundo-bg-color);
+    padding-top: 12vh;
+}
+/* Footer */
+footer{
+    height: 15vh;
+}
